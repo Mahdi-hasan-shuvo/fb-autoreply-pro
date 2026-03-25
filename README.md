@@ -268,6 +268,7 @@ Perfect for: Aggressive marketing, high-volume ad campaigns.
   &nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/d59eb069-9bb0-4cb9-a26d-9311e97c3ef0" width="47%" style="border-radius:10px; margin: 5px;"/>
 </p>
+<img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/0cc36921-df1f-419d-a81f-09f96fba2ea5" />
 
 ---
 
