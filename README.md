@@ -359,7 +359,7 @@ Yes! I take custom orders. Tell me what you need — extra features, different p
 ╠══════════════════════════════════════════════════════════════════╣
 ║                                                                  ║
 ║  ⏰  Reply time : Usually within 1–3 hours                       ║
-║  💳  Payment   : bKash · Nagad · Binance · PayPal               ║
+║  💳  Payment   : bKash · Bank · Binance · PayPal               ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
