@@ -369,7 +369,8 @@ Yes! I take custom orders. Tell me what you need — extra features, different p
 &nbsp;&nbsp;
 [![💬 WhatsApp Me](https://img.shields.io/badge/💬%20WhatsApp%20Me-+8801616397082-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801616397082)
 &nbsp;&nbsp;
-[![🌐 Portfolio](https://img.shields.io/badge/🌐%20My%20Portfolio-View%20My%20Work-6366f1?style=for-the-badge)](https://yourportfolio.com)
+[![🌐 Portfolio](https://img.shields.io/badge/🌐%20My%20Portfolio-View%20My%20Work-6366f1?style=for-the-badge)](https://mahdi-hasan-shuvo.github.io/)
+
 
 <br/>
 
@@ -386,7 +387,7 @@ Yes! I take custom orders. Tell me what you need — extra features, different p
 
 *Starring helps other business owners discover this tool.*
 
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/fb-autoreply-pro?style=for-the-badge&logo=github&color=f59e0b)](https://github.com/yourusername/fb-autoreply-pro/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/Mahdi-hasan-shuvo/fb-autoreply-pro?style=for-the-badge&logo=github&color=f59e0b)](https://github.com/Mahdi-hasan-shuvo/fb-autoreply-pro/stargazers)
 
 ---
 
