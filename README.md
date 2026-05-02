@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24&height=250&section=header&text=FB%20AutoReply%20Pro&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=40&desc=🤖%20The%20%231%20Facebook%20Comment%20Bot%20for%20Smart%20Businesses&descAlignY=62&descSize=20" width="100%"/>
 
 <br/>
-
+  
 <a href="mailto:shuvobbhh@gmail.com"><img src="https://img.shields.io/badge/Made%20by-Mahdi%20Hasan%20Shuvo-ff6b35?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://wa.me/8801616397082"><img src="https://img.shields.io/badge/WhatsApp-Available%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="mailto:shuvobbhh@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
