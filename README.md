@@ -403,3 +403,4 @@ Yes! I take custom orders. Tell me what you need — extra features, different p
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24&height=140&section=footer&text=Let's%20Build%20Together%20🚀&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
 
 </div>
+ 
